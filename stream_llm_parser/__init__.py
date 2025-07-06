@@ -1,7 +1,7 @@
 
 from .base_parser import SpecialTokenConfig, StreamSpecialTokenParser
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Ye Ting"
 __author_email__ = "yeting2938@163.com"
 __license__ = "MIT"
